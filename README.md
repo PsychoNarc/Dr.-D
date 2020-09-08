@@ -1,13 +1,16 @@
-# Mobile Appointment Application (Flutter POT)
+# Mobile Appointment Application:
+A UI based project on Google's Flutter and Dart programming languages, for a doctor appointment system.
 
-Proof-of-Technology (POT) based on Google's Flutter and Dart programming languages, User Interface (UI) builder framework, and various development patterns.
+## Notable tools, technologies, and frameworks include:
+1. Google Firebase 
+2. Facebook Login for iOS and Android
+3. Google Authentication
+4. Google Maps Flutter plugin for Android and iOS
 
-Notable tools, technologies, and frameworks include:
+## Firebase Instructions:
+1. Add own Firebase account to project.
+2. Add Cloud Firestore and Firebase Auth dependencies to enable Google authentication.
 
-Microsoft Visual Studio Code, Apple XCode, Android Studio (IntelliJ), Git and GitHub, Google Firebase, Facebook Login for iOS and Android, Google Authentication, Google Maps Flutter plugin for Android and iOS, Provider Widget State Management and Dependency Injection, BLoC Pattern, Shopping Cart Pattern, Model View Controller (MVC) Pattern
-
-## Source Code / Screenshots / Demo
-
-https://github.com/BrianNewell/appt-app-flutter
-
-![](appt_app_demo.gif)
+For more: 
+* `https://firebase.google.com/docs`
+* `https://www.youtube.com/watch?v=Wa0rdbb53I8&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=2`
