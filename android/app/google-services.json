@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "930681782323",
+    "firebase_url": "https://apptapp-b8f5d.firebaseio.com",
+    "project_id": "apptapp-b8f5d",
+    "storage_bucket": "apptapp-b8f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930681782323:android:6c12c8e377ce9e886fa346",
+        "android_client_info": {
+          "package_name": "com.psychonarc.appt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930681782323-9vamhmaeii5bi9tgq618srmno3021inb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.psychonarc.appt_app",
+            "certificate_hash": "ad63259052bc30d8ab5be7869619acb54ecab1b7"
+          }
+        },
+        {
+          "client_id": "930681782323-0rvvhgigs35rl2cnansjc4h9gahdrtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo5p6-lFvX4IcOlK7KfmprQ6PquZ6A8vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930681782323-0rvvhgigs35rl2cnansjc4h9gahdrtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
