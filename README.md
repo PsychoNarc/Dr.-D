@@ -14,3 +14,6 @@ A UI based project on Google's Flutter and Dart programming languages, for a doc
 For more: 
 * `https://firebase.google.com/docs`
 * `https://www.youtube.com/watch?v=Wa0rdbb53I8&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC&index=2`
+* `https://pub.dev/`
+
+### To run project, enter `flutter clean` and `flutter run` on console.
